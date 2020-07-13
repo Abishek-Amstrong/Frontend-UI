@@ -1,6 +1,8 @@
 # HTML and CSS for Blitz Homepage
 ![](images/Blitz.JPG)
 
+<img src="images/Blitz.JPG" width=100%>
+
 This project was created from the example of Udemy course
 
 ## Project Description:
