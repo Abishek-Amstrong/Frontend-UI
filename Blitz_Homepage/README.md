@@ -1,4 +1,5 @@
 # HTML and CSS for Blitz Homepage
+![](images/Blitz.JPG)
 
 This project was created from the example of Udemy course
 
